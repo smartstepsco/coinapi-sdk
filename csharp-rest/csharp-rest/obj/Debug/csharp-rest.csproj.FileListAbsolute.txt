@@ -1,0 +1,1 @@
+H:\Freelancer\Project\SDK-Fork\csharp-rest\csharp-rest\bin\Debug\csharp-rest.exe.config
