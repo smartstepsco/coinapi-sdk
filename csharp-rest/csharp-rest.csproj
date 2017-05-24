@@ -48,9 +48,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataModels\Ask.cs" />
+    <Compile Include="DataModels\Asset.cs" />
+    <Compile Include="DataModels\Bid.cs" />
     <Compile Include="CoinApi.cs" />
+    <Compile Include="DataModels\Entities.cs" />
+    <Compile Include="DataModels\Exchange.cs" />
+    <Compile Include="DataModels\ExchangeCurrentrate.cs" />
+    <Compile Include="DataModels\Exchangerate.cs" />
+    <Compile Include="DataModels\Hashtag.cs" />
+    <Compile Include="DataModels\OHLCV.cs" />
+    <Compile Include="DataModels\Orderbook.cs" />
+    <Compile Include="DataModels\Period.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataModels\Quote.cs" />
+    <Compile Include="DataModels\Rate.cs" />
+    <Compile Include="DataModels\Symbol.cs" />
+    <Compile Include="DataModels\Trade.cs" />
+    <Compile Include="DataModels\Twitter.cs" />
+    <Compile Include="DataModels\Url.cs" />
+    <Compile Include="DataModels\User.cs" />
+    <Compile Include="DataModels\User_Mentions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
