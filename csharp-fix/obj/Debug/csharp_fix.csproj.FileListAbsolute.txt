@@ -1,0 +1,11 @@
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\csharp_fix.exe.config
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\FIX44.xml
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\config_ssl.cfg
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\csharp_fix.exe
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\csharp_fix.pdb
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\Newtonsoft.Json.dll
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\QuickFix.dll
+H:\Freelancer\Project\SDK-Fork\csharp-fix\bin\Debug\Newtonsoft.Json.xml
+H:\Freelancer\Project\SDK-Fork\csharp-fix\obj\Debug\csharp_fix.csprojResolveAssemblyReference.cache
+H:\Freelancer\Project\SDK-Fork\csharp-fix\obj\Debug\csharp_fix.exe
+H:\Freelancer\Project\SDK-Fork\csharp-fix\obj\Debug\csharp_fix.pdb
